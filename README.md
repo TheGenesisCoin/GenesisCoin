@@ -1,5 +1,13 @@
 # TheGenesisCoin
 
+<b>NAME:</b> Genesis
+<b>Symbol:</b> GEN
+<b>Decimals:</b> 18
+<b>Totaly Supply:</b> 16,000,000
+<b>Block time:</b> 30 Seconds
+
+<b>Contract Address:</b>
+
 
 Genesis Coin is an ERC20 token created on the Ethereum Blockchain with a fixed supply of 16,000,000 coins. The three core values of Genesis Coin is being fast, secure and flexible.
 
@@ -16,6 +24,9 @@ Genesis is built on the Ethereum blockchain and therefore is able to take advant
 <b>--Flexible--</b>
 
 Genesis Coin can be used as a currency to purchase goods, traded on exchanges or used as an investment.
+
+
+Contract Address:
 
 
 
