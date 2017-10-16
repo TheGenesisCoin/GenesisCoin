@@ -30,7 +30,7 @@ Genesis is built on the Ethereum blockchain and therefore is able to take advant
 Genesis Coin can be used as a currency to purchase goods, traded on exchanges or used as an investment.
 
 
-Contract Address:
+Contract Address: 0x8Ed61279b30201203bc233EA972E10008c8B7C5F
 
 
 
