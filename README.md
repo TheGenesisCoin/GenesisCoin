@@ -1,13 +1,13 @@
 # TheGenesisCoin
-<br>
+
 <b>NAME:</b> Genesis
-<br>
+
 <b>Symbol:</b> GEN
-<br>
+
 <b>Decimals:</b> 18
-<br>
+
 <b>Totaly Supply:</b> 16,000,000
-<br>
+
 <b>Block time:</b> 30 Seconds
 
 <b>Contract Address:</b>
