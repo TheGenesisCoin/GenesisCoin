@@ -61,7 +61,7 @@ library SafeMath {
      string public constant symbol = "GEN";
      string public constant name = "Genesis";
      uint8 public constant decimals = 18;
-     uint256 _totalSupply = 25000000000000000000000000;
+     uint256 _totalSupply = 16000000000000000000000000;
      
      address public owner;
  
