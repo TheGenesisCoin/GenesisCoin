@@ -8,7 +8,7 @@
 
 <b>Totaly Supply:</b> 16,000,000
 
-<b>Block time:</b> 30 Seconds
+<b>Block time:</b> 15 Seconds
 
 <b>Contract Address:</b> 0x8Ed61279b30201203bc233EA972E10008c8B7C5F
 
@@ -19,7 +19,7 @@ The Ethereuam blockchain allows us to put these three values right at the very h
 
 <b>--Fast--</b>
 
-The average transaction takes only 30 seconds to be mined and verified on the Ethereum blockchain, making it one of the fastest platforms currently around
+The average transaction takes only 15 seconds to be mined and verified on the Ethereum blockchain, making it one of the fastest platforms currently around
 
 <b>--Secure--</b>
 
