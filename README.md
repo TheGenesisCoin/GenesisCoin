@@ -10,7 +10,7 @@
 
 <b>Block time:</b> 15 Seconds
 
-<b>Contract Address:</b> 0x8Ed61279b30201203bc233EA972E10008c8B7C5F
+<b>Contract Address:</b> 0x9dfe4643C04078a46803edCC30a3291b76d4c20c
 
 
 Genesis Coin is an ERC20 token created on the Ethereum Blockchain with a fixed supply of 16,000,000 coins. The three core values of Genesis Coin is being fast, secure and flexible.
@@ -30,7 +30,7 @@ Genesis is built on the Ethereum blockchain and therefore is able to take advant
 Genesis Coin can be used as a currency to purchase goods, traded on exchanges or used as an investment.
 
 
-Contract Address: 0x8Ed61279b30201203bc233EA972E10008c8B7C5F
+Contract Address: 0x9dfe4643C04078a46803edCC30a3291b76d4c20c
 
 
 
