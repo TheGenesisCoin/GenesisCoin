@@ -27,10 +27,14 @@ Genesis is built on the Ethereum blockchain and therefore is able to take advant
 
 <b>--Flexible--</b>
 
-Genesis Coin can be used as a currency to purchase goods, traded on exchanges or used as an investment.
+Genesis Coin can be used as a currency to purchase goods, traded on exchanges or used as an investment. Genesis is also a forum where newcomers and veterans of cryptocurrency can come together and earn Genesis Coins by being active and positively contributing to the community.
 
 
 Contract Address: 0x9dfe4643C04078a46803edCC30a3291b76d4c20c
+
+Website: www.GenesisCoin.io
+
+Genesis Forum: www.TheGenesisForum.com
 
 
 
